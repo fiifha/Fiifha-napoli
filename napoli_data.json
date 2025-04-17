@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Spaccanapoli",
+        "description": "Una delle strade più famose del centro storico di Napoli, ricca di storia, arte e tradizioni.",
+        "url": "https://it.wikipedia.org/wiki/Spaccanapoli"
+    },
+    {
+        "title": "Pizzeria da Michele",
+        "description": "Una delle pizzerie più antiche e famose di Napoli.",
+        "url": "https://damichele.net"
+    },
+    {
+        "title": "Castel dell'Ovo",
+        "description": "Storico castello affacciato sul mare, con vista panoramica sul Golfo.",
+        "url": "https://it.wikipedia.org/wiki/Castel_dell%27Ovo"
+    },
+    {
+        "title": "Napoli Sotterranea",
+        "description": "Un viaggio affascinante nel sottosuolo della città.",
+        "url": "https://www.napolisotterranea.org"
+    }
+]
